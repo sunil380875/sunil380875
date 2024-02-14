@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sunil Kumar Mishra</h1>
 <h3 align="center">A passionate Node.js developer from India</h3>
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **Jenkins CI/CD pipeline**
 
 - 📫 How to reach me **sunil.crud@gmail.com**
 
