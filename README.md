@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sunil Kumar Mishra</h1>
 <h3 align="center">A passionate Node.js developer from India</h3>
 
-- 🌱 I’m currently learning **Jenkins CI/CD pipeline**
-
+- 🚀 I'm going to learn the serverless framework
+- 🌱 I’m completed CI/CD pipeline Jenkins**
 - 📫 How to reach me **sunil.crud@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
