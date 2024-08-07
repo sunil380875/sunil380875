@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sunil Kumar Mishra</h1>
-<h3 align="center">A passionate Node.js developer from India</h3>
+<h3 align="center">A passionate MERN STACK developer from India</h3>
 
 - 🚀 I'm going to learn the serverless framework
 - 🌱 I’m completed CI/CD pipeline Jenkins**
