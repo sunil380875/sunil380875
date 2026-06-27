@@ -71,17 +71,17 @@
 
 ### 🔖 Pinned Projects
 
-#### 🎓 [EduQuiz — EdTech Platform](https://github.com/sunil380875/rolex-backend)
-> NestJS (switchable serverless/monolithic) · Next.js admin panel · Expo React Native mobile · Agora SDK for live teaching · Self-hosted Llama 3 doubt-solver via Ollama · AWS S3 multipart uploads
-
-`NestJS` `Next.js` `Expo` `Ollama` `Agora` `AWS S3` `Socket.io` `TanStack Table` `TipTap`
-
----
-
 #### 🤖 [Local RAG Chatbot](https://github.com/sunil380875/nodejs-rag-chatbot)
 > Fully local retrieval-augmented generation pipeline: Node.js + Qdrant vector DB + Ollama (nomic-embed-text embeddings + llama3 inference)
 
 `Node.js` `Qdrant` `Ollama` `RAG` `LLM` `Vector DB`
+
+---
+
+#### 🎓 [EduQuiz — EdTech Platform](https://github.com/sunil380875/rolex-backend)
+> NestJS (switchable serverless/monolithic) · Next.js admin panel · Expo React Native mobile · Agora SDK for live teaching · Self-hosted Llama 3 doubt-solver via Ollama · AWS S3 multipart uploads
+
+`NestJS` `Next.js` `Expo` `Ollama` `Agora` `AWS S3` `Socket.io` `TanStack Table` `TipTap`
 
 ---
 
