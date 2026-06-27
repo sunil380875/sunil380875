@@ -71,7 +71,7 @@
 
 ### 🔖 Pinned Projects
 
-#### 🎓 [EduQuiz — EdTech Platform](https://github.com/sunil380875)
+#### 🎓 [EduQuiz — EdTech Platform](https://github.com/sunil380875/rolex-backend)
 > NestJS (switchable serverless/monolithic) · Next.js admin panel · Expo React Native mobile · Agora SDK for live teaching · Self-hosted Llama 3 doubt-solver via Ollama · AWS S3 multipart uploads
 
 `NestJS` `Next.js` `Expo` `Ollama` `Agora` `AWS S3` `Socket.io` `TanStack Table` `TipTap`
