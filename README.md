@@ -92,16 +92,7 @@
 
 ---
 
-### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sunil380875&show_icons=true&theme=default&hide_border=true&count_private=true" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sunil380875&hide_border=true&theme=default" width="47%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunil380875&layout=compact&hide_border=true&theme=default&langs_count=8" width="47%" />
-</p>
 
 ---
 
